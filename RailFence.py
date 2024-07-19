@@ -41,7 +41,7 @@ def descriptografa(cifra, chave):
         if linha == 0 or linha == chave - 1:
             dir_baixo = not dir_baixo
 
-        rail[linha][col] = '*'  # Marca o trilho com um asterisco
+        rail[linha][col] = '*'  #Marca o trilho com um asterisco
         col += 1
 
         if dir_baixo:
