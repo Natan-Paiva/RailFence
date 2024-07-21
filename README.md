@@ -13,5 +13,6 @@ A cifra Rail Fence é um tipo clássico de cifra de transposição. Deriva seu n
 - Clone este repositório
 
 ### Modo de uso
-- Abra a raíz do projeto
+- Abra o cmd
+- Acesse a raíz do projeto
 - Rode o comando ```python RailFence.py <nome_do_arquivo> <chave> <criptografar ou descriptografar>```
